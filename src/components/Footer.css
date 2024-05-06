@@ -1,0 +1,15 @@
+#footer-container {
+  background-color: #13193f;
+  color: white;
+}
+
+.newsBtn {
+  background-color: #13193f;
+}
+.newsBtn:hover {
+  background-color: #212c74;
+}
+
+.mb-3 {
+  padding-top: 10px;
+}

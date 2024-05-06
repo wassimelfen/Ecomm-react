@@ -1,0 +1,30 @@
+.navbar-nav {
+  margin-right: 0 !important;
+  padding-right: 100px;
+}
+
+.navbar {
+  background-color: #13193f;
+  color: white !important;
+}
+
+.nav-item a {
+  color: white !important;
+}
+
+.nav-item a:hover {
+  color: rgb(255, 135, 80) !important;
+}
+
+.nav-item {
+  padding-left: 2px;
+}
+
+.navbar-brand {
+  color: rgb(255, 135, 80) !important;
+  padding-left: 100px;
+}
+
+#navbar button {
+  color: white !important;
+}

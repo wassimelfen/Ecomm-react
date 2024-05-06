@@ -1,0 +1,89 @@
+#banner-container {
+  background-color: #008fd3;
+  font-weight: bold;
+  font-size: larger;
+  color: rgb(255, 255, 255) !important;
+}
+
+.welcomeText {
+  margin-top: 5%;
+  font-size: larger;
+}
+
+#banner-row img {
+  max-width: 95%;
+  display: block;
+}
+
+@media screen and (max-width: 700px) {
+  #banner-row h3,
+p {
+  padding-left: 20px;
+  margin-left: -5%;
+  padding-top: 20px;
+  text-align: center;
+}
+}
+#banner-row h3,
+p {
+  padding-left: 20px;
+  padding-top: 20px;
+  text-align: center;
+}
+
+#banner-row a {
+  background-color: #16226e !important;
+  font-weight: bold;
+  font-size: large;
+  color: rgb(255, 135, 80)!important;  
+  margin-top: 20px;
+  box-shadow: rgba(0, 0, 0, 0.26) 0px 10px 36px 0px, rgba(0, 0, 0, 0.09) 0px 0px 0px 1px;
+}
+
+#banner-row a:hover {
+  background-color: rgb(10, 21, 85) !important;
+
+  color: rgb(255, 135, 80)!important;
+}
+
+#banner-col {
+  padding-left: 20px;
+}
+
+#about {
+  padding-top: 20px;
+  padding-bottom: 80px;
+  background-color: rgb(238, 238, 238);
+}
+
+#about h1 {
+  padding-bottom: 10px;
+}
+
+#about-col ul {
+  padding-top: 50px;
+}
+
+.imageAbout{
+  margin-top: 5%;
+}
+
+@media screen and (min-width: 700px) {
+#about-col ul {
+  padding-top: 50px;
+  padding-left: 15%;
+}
+}
+
+#about-col ul li {
+  padding-top: 15px;
+}
+
+.text-center {
+  color: rgb(255, 135, 80);
+  font-weight: bold;
+}
+
+.threeGifs {
+  width: 50%;
+}

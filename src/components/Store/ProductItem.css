@@ -1,0 +1,12 @@
+.images {
+  width: 150px;
+  height: 150px;
+}
+
+.product-item {
+  align-items: center;
+  text-align: center;
+  margin: 10px;
+  padding: 10px;
+  cursor: pointer;
+}
